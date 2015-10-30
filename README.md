@@ -3,7 +3,7 @@ Going through the book Design Patterns in Ruby by Russ Olsen - katas to help rem
 
 # Patterns
 
-1. [Template Method](#template)
+1. [Template Method](#template-method)
 2. [Strategy](#strategy)
 3. [Observer](#observer)
 4. [Composite](#composite)
@@ -19,3 +19,39 @@ Going through the book Design Patterns in Ruby by Russ Olsen - katas to help rem
 14. [DSL](#dsl)
 15. [Meta-programming](#meta-programming)
 16. [Convention over Configuration](#convention-over-configuration)
+17. [SOLID](#solid)
+
+
+## Template Method
+
+## Strategy
+
+## Observer
+
+## Composite
+
+## Iterator
+
+## Command
+
+## Adapter
+
+## Proxy
+
+## Decorator
+
+## Singleton
+
+## Factory
+
+## Builder
+
+## Interpreter
+
+## DSL
+
+## Meta Programming
+
+## Convention over Configuration
+
+## SOLID
